@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head><title>Indian Freedom Fighters</title>
+
+<body>
+    <h1>Indian Freedom Fighters</h1>
+  <style>
+    h1{
+    color:blue;
+    background-color:orange;
+    text-align:center;
+    }
+    nav{
+    float:left;
+    width:30%
+    margin:0;
+    padding:2px;
+    background-color:lightgreen;
+    }
+    </head>
+  </style>
+    <nav>
+        <ul>
+            <li><a href="#">Mahathma Gandhi</a></li>
+            <li><a href="#">Jawaharlal Nehru</a></li>
+            <li><a href="#">Subhash Chandra Bose</a></li>
+            <li><a href="#">Chandhra Sekhar Azad</a></li>
+            <li><a href="#">Abdul kalam</a></li>
+        </ul>
+    </nav>
+<article>
+        <h2>Alluri Sitarama Raju</h2>
+        <p>Alluri Sitarama Raju (4 July 1897 or 1898 – 7 May 1924)[1] was an Indian revolutionary, who waged an armed campaign against the British colonial rule in India. Born in present-day Andhra Pradesh, India; he was involved in opposing the British in response to the 1882 Madras Forest Act, which restricted the free movement of Adivasis in their forest habitats, and prevented them from practicing their traditional form of agriculture called podu. Rising discontent towards the British led to the Rampa Rebellion of 1922 — in which Alluri played a major role as leader. Mustering forces combined of Adivasis, farmers and other sympathizers to the cause, he engaged in guerilla campaigns against the British authorities in the border regions of then Madras Presidency, now parts of East Godavari and Visakhapatnam. He was given the epithet — "Manyam Veerudu" (transl. Hero of the Jungle), by the local villagers for his heroic exploits.</p>
+        </article? <footer>Designed by Anil</footer>

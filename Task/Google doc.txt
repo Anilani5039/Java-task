@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>online registration </title>
+    </head>
+    <body bgcolor="lightpink"><br><br>
+        <h1>Registration form 
+        </h1>
+        <style>
+            h1{
+                background-color: aliceblue;
+                font-size: x-large;
+                text-align: center;
+                background-image: -moz-element();
+            }
+
+        </style>
+        
+        </h1>
+
+    First Name
+    <input type="text"><br><br>
+    Last name
+    <input type="text"><br><br>
+    Course
+    <select>
+        <option>course</option>
+        <option>BSC</option>
+        <option>BCOM</option>
+        <opion>BCA</opion>
+        <option>BA</option>
+        <option>BBA</option>
+    </select>
+    <br><br>
+    Gender:
+    Male
+    <input type="radio">
+    Female
+    <input type="radio"><br><br>
+    Phone number
+    <input tytpe="country code" value="+91">
+
+
+    <input type="number">
+    
+    <br><br>
+    Email
+    <input type="email"><br><br>
+    Address
+    <textarea cols="80" rows="5"></textarea><br><br>
+    password
+    <input type="password"><br><br>
+    <input type="button" value="Submit"/><br><br>
+
+
+    </body>
+</html>
